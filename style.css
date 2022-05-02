@@ -4,7 +4,10 @@
 
 .container {
     display: flex;
-    width: 100vw;
+    flex-direction: row;
+    width: 935px;
     height: 100vh;
     background-color: cornflowerblue;
+    margin: auto;
+    align-items: center;
 }
