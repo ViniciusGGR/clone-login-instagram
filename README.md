@@ -1,5 +1,5 @@
 # Clone Instagram
 
-Clone da página inicial do Instagram.
+Clone da página de login do Instagram.
 
 Tecnologias - HTML & CSS.
